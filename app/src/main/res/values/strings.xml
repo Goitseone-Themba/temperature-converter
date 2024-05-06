@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">temperature-converter</string>
+    <string name="selectFrom">From:</string>
+    <string name="selectTo">To:</string>
+</resources>
